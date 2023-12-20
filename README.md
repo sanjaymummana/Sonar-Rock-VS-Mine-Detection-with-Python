@@ -10,4 +10,4 @@
   b)Accuracy on testing data  
  6)Making predictive system  
  Finally after completion of project the accuracy score on testing data i got is 76.1%  
- I used google collab for the project
+ I used google collab for the project ,making use of numpy , pandas using puthon along with data analysis and data mining with Logistis Regression as the machine learning model.
